@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0637822817DB4D9600CC24BB /* aNed5X4_700b.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0637822717DB4D9600CC24BB /* aNed5X4_700b.jpg */; };
 		97CED6CA17DB4AD00001BE70 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 97CED6C917DB4AD00001BE70 /* UIKit.framework */; };
 		97CED6CC17DB4AD00001BE70 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 97CED6CB17DB4AD00001BE70 /* Foundation.framework */; };
 		97CED6CE17DB4AD00001BE70 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 97CED6CD17DB4AD00001BE70 /* CoreGraphics.framework */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0637822717DB4D9600CC24BB /* aNed5X4_700b.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aNed5X4_700b.jpg; sourceTree = "<group>"; };
 		97CED6C617DB4AD00001BE70 /* GitHubTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitHubTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		97CED6C917DB4AD00001BE70 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		97CED6CB17DB4AD00001BE70 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -51,6 +53,7 @@
 		97CED6BD17DB4AD00001BE70 = {
 			isa = PBXGroup;
 			children = (
+				0637822717DB4D9600CC24BB /* aNed5X4_700b.jpg */,
 				97CED6CF17DB4AD00001BE70 /* GitHubTest */,
 				97CED6C817DB4AD00001BE70 /* Frameworks */,
 				97CED6C717DB4AD00001BE70 /* Products */,
@@ -154,6 +157,7 @@
 				97CED6DC17DB4AD00001BE70 /* Default.png in Resources */,
 				97CED6DE17DB4AD00001BE70 /* Default@2x.png in Resources */,
 				97CED6E017DB4AD00001BE70 /* Default-568h@2x.png in Resources */,
+				0637822817DB4D9600CC24BB /* aNed5X4_700b.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +284,7 @@
 				97CED6E517DB4AD00001BE70 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
